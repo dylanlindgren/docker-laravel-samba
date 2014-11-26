@@ -1,4 +1,4 @@
-docker-laravel-nfs
+docker-laravel-samba
 ==================
 
-NFS server for accessing application
+Samba server for accessing app
